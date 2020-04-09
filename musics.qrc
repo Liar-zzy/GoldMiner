@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/musicss">
+        <file>ii/bgm.mp3</file>
+        <file>ii/endless.mp3</file>
+        <file>ii/get.mp3</file>
+        <file>ii/money.mp3</file>
+        <file>ii/sound.mp3</file>
+        <file>ii/special.mp3</file>
+        <file>ii/ss.mp3</file>
+    </qresource>
+</RCC>

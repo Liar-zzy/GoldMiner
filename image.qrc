@@ -1,0 +1,36 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>iii/a.png</file>
+        <file>iii/1.png</file>
+        <file>iii/2.png</file>
+        <file>iii/3.png</file>
+        <file>iii/begin.png</file>
+        <file>iii/ppause.png</file>
+        <file>iii/start.png</file>
+        <file>iii/ccc.png</file>
+        <file>iii/-.png</file>
+        <file>iii/+.png</file>
+        <file>iii/big.png</file>
+        <file>iii/diamond.png</file>
+        <file>iii/hook1.png</file>
+        <file>iii/small.png</file>
+        <file>iii/time.png</file>
+        <file>iii/background.png</file>
+        <file>iii/background.jpg</file>
+        <file>iii/pause.png</file>
+        <file>iii/cancle.png</file>
+        <file>iii/title-money.png</file>
+        <file>iii/title-time.png</file>
+        <file>iii/reset.png</file>
+        <file>iii/restart.png</file>
+        <file>iii/bag.png</file>
+        <file>iii/finish.jpg</file>
+        <file>1.ico</file>
+        <file>iii/icon.png</file>
+        <file>iii/button1.png</file>
+        <file>iii/button2.png</file>
+        <file>iii/mpause.png</file>
+        <file>iii/mplay.png</file>
+        <file>iii/diamond1.png</file>
+    </qresource>
+</RCC>
